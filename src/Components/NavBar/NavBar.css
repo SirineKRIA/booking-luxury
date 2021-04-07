@@ -1,0 +1,12 @@
+/* Additional styling */
+.ToolBar {
+    color: plum;
+    background-color: white;
+}
+
+.navLink {
+    font-size: 14px;
+    line-height: 82px;
+    font-weight: 700;
+    font-family: Quicksand, sans-serif;
+}
